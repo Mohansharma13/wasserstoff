@@ -31,7 +31,7 @@ This RAG app uses LangChain, a powerful framework for AI applications, to create
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Mohansharma13/wasserstoff]
+    git clone https://github.com/Mohansharma13/wasserstoff.git
     ```
 2. Navigate to the project directory:
     ```bash
