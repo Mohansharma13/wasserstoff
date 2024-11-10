@@ -1,4 +1,4 @@
-# RAG App with Chain of Thought (CoT) and Multi-Query Retrieval
+# RAG App with Chain of Thought (CoT) and Multi-Query Retrieval For Wordpress website Blogs
 
 This project is a Retrieval-Augmented Generation (RAG) application that enhances response accuracy and depth by implementing a Chain of Thought (CoT) approach. By generating multiple alternative queries, the system retrieves a more comprehensive set of documents to answer complex user questions with improved relevance and context.
 
@@ -31,7 +31,7 @@ This RAG app uses LangChain, a powerful framework for AI applications, to create
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mohansharma13/wasserstoff.git
+    git clone https://github.com/Mohansharma13/rag-for-wordpress.git
     ```
 2. Navigate to the project directory:
     ```bash
